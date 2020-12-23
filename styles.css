@@ -336,6 +336,9 @@ nav img {
     padding: 30px 80px;
     font-size: 25px;
   }
+  #showcase .container {
+    padding: 51px 30px 65px;
+  }
   #showcase .card {
     flex-direction:column-reverse;
     height: auto;
@@ -343,6 +346,7 @@ nav img {
     width: 100%;
     overflow: hidden;
   }
+  
   .showcase-img img {
     width: 100%;
     max-width: 500px;
@@ -429,6 +433,9 @@ nav img {
   .textarea p {
     font-size: 20px;
     margin-bottom: 30px;
+  }
+  #showcase .container {
+    padding: 51px 30px 65px;
   }
   #showcase .card {
     padding: 40px 20px 30px;

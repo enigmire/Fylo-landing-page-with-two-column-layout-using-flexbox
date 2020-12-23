@@ -57,11 +57,11 @@ img {
   background-repeat: no-repeat;
   height: 100%;
   overflow: hidden;
-  font-family: 'Poppins', sans-serif;
 }
 nav {
   margin: 0px 0 60px;  
   height: 50px;
+  font-family: 'Poppins', sans-serif;
 }
 nav img {
   width: 30%;
@@ -207,7 +207,7 @@ nav img {
 }
 .footer-logo  {
   width: 240px;
-  filter: invert(100%);
+  filter: brightness(0) invert(1);
   margin-bottom: 36px;
   display: block;
 }
@@ -391,7 +391,7 @@ nav img {
     margin-bottom: 45px;
   }
   .contact p, #footer a {
-    font-size: 35px;
+    font-size: 18px;
   }
   .socials {
     justify-content: center;

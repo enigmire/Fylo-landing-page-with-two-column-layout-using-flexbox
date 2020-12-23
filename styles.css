@@ -120,7 +120,7 @@ nav img {
 
 #showcase .grid {
   grid-template-columns: repeat(1, 1fr);
-  margin-top: 100px;
+  margin-top: 70px;
   gap: 0;
 }
 #showcase .container {
